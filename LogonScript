@@ -1,6 +1,5 @@
 Simple logon script for logging to txt file
 
-
 $gebruiker = hostname
 $date = get-date -UFormat "%Y%m%d_"
 $path = \\SGDC1\Notepad\Logs\$date$gebruiker.txt"
